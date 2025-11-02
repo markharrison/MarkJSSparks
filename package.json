@@ -1,6 +1,6 @@
 {
   "name": "@markharrison/sparkles.js",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "description": "A reusable sparkle effect system for canvas animations.",
   "main": "sparkles.js",
   "repository": {
