@@ -1,4 +1,4 @@
-@markharrison:registry=https://npm.pkg.github.com/
+@markharrison:registry=https://registry.npmjs.org/
 package-lock=false
 
 npm install @markharrison/markjssparkles@latest --save
