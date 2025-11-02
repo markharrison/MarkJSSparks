@@ -2,3 +2,6 @@
 package-lock=false
 
 npm install @markharrison/markjssparkles@latest --save
+
+PS C:\Dev\oh-balls\junk> Remove-Item -Recurse -Force node_modules
+PS C:\Dev\oh-balls\junk> npm OUTDATED
